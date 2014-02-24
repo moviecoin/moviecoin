@@ -1,0 +1,9 @@
+Building MovieCoin
+
+See doc/readme-qt.rst for instructions on building MovieCoin-QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MovieCoin.
+
+See doc/build-*.txt for instructions on building MovieCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MovieCoin.
